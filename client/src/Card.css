@@ -1,0 +1,15 @@
+.pizzaimage{
+    height: 400px;
+}
+.card{
+    width: 400px;
+}
+.blockchoice{
+    display:flex ;
+}
+.choice{
+    height: 75px;
+}
+.choice{
+    justify-content: center;
+}
